@@ -1,0 +1,146 @@
+
+#head-1{
+text-align: center;
+
+background-color: rgb(148, 148, 212);
+color: rgb(48, 21, 170);
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+border-top-left-radius: 12px;
+border-bottom-right-radius: 12px;
+font-size: 40px;
+letter-spacing: 5px;
+
+}
+
+
+/* 
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+</style> */
+
+
+
+.heading{
+
+    font-family: roboto black;
+ text-transform: uppercase;
+  padding-left: 12px;
+  color: rgb(3, 3, 112);
+  font-size: 35px;
+}
+#bold{
+ font-size: 35px;
+ text-transform: uppercase;
+ text-align: center;
+ text-decoration: underline;
+ text-decoration-style: dashed;
+ text-decoration-color: rgb(3, 3, 112);
+ color: red;
+
+}
+.article-1{
+  text-align: justify;
+  padding-left: 15px;
+  font-family: Roboto;
+  font-size: 25px;
+ 
+}
+.list{
+  padding-left: 20px;
+  font-size: 25px;
+}
+#heading-2{
+  text-transform: uppercase;
+  font-size: 35px;
+  text-align: center;
+  text-decoration-line: underline;
+  text-decoration-style: dashed;
+  text-decoration-color:rgb(3, 3, 112);
+  
+  color: red;
+  font-family: roboto black;
+  word-spacing: 10px;
+}
+  
+
+#list-of-supercomputer{
+  padding-left: 80px;
+  font-size: 30px;
+  
+}
+.heading-3{font-family: roboto black;
+font-size: 30px;
+text-transform: uppercase;
+text-decoration-line: underline;
+text-decoration-style: wavy;
+color: rgb(3, 3, 112);
+
+}
+.list-1{
+  padding-inline-start: 60px;
+  font-size: 30px;
+}
+.article-2{
+  padding-right: 300px;
+ 
+  
+  
+  
+}
+.article-3{
+  /* margin-top: 60px; */
+  margin-bottom: 60px;
+  text-indent: 60px;
+
+}
+.image-1{
+  
+}
+#heading-4{ 
+  text-transform: uppercase;
+  font-size: 35px;
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  text-decoration-color: rgb(3, 3, 112);
+  color: red;
+  margin-top: 130px;
+  font-family: roboto black;
+
+
+}
+.heading-5{
+
+  font-size: 25px;
+  text-transform: capitalize;
+  font-size: 35px;
+  color: rgb(3, 3, 112);
+  text-decoration:underline;
+  text-decoration-style: wavy;
+  font-family: roboto black;
+ text-transform: uppercase;
+
+
+}
+.article-4{
+  font-size: 30px;
+  font-family: roboto;
+  text-align: justify;
+  text-indent: 60px;
+  padding-left: 10px;
+
+
+
+}
+.dl-1{
+  font-size: 30px;
+  font-family: roboto;
+  text-align: justify;
+}
+.dt{
+  font-weight: bolder;
+  color: rgb(3, 3, 112);
+}
+
+
+
